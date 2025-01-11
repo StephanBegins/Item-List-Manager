@@ -17,12 +17,12 @@ This project is my solution to the **Item List Manager** assessment for a React 
 ### Demo Link
 
 You can view the live demo of this application here:  
-[Item List Manager - GitHub Pages]([https://StephanBegins.github.io/Item-List-Manager])
+Item List Manager - GitHub Pages - https://StephanBegins.github.io/Item-List-Manager
 
 ### GitHub Repository
 
 You can explore the full source code for this project here:  
-[Item List Manager - GitHub Repository]([https://StephanBegins.github.io/Item-List-Manager])
+Item List Manager - GitHub Repository - https://StephanBegins.github.io/Item-List-Manager
 
 ## Getting Started
 
